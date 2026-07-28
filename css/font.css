@@ -1,0 +1,20 @@
+@font-face{
+    font-family: 'Mon';
+    src: url(../font/Montserrat-Regular.ttf) format('truetype');
+}
+
+@font-face{
+    font-family: 'Oswald';
+    src: url(../font/Oswald-Regular.ttf) format('truetype');
+}
+
+@font-face{
+    font-family: 'VollR';
+    src: url(../font/Vollkorn-Regular.ttf) format('truetype');
+}
+
+@font-face{
+    font-family: 'Italic';
+    src: url(../font/Vollkorn-Italic.ttf) format('truetype');
+}
+
